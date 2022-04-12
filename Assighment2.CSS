@@ -1,0 +1,66 @@
+.Firstsection {
+    background-color:#FF616D;
+    width: 100%;
+    height: 590px;
+}
+
+.Firstcontainer {
+    position: absolute;
+    left: 20%;
+}
+
+
+.Secondsection{
+    background-color: aliceblue;
+    margin: 0;
+    width: 100%;
+    height: 440px;
+}
+
+.Secondcontainer {
+    position: relative;
+    top: 100px;
+    left: 8%;
+}
+
+.Thirdsection {
+    background-color: orange;
+    width: 100%;
+    height: 350px;
+    margin: 0;
+    text-align: center;
+}
+
+.carousel-inner {
+    top: 140px;
+}
+
+.companylink {
+    position: absolute;
+    top: 1320px;
+    left: 37%;
+}
+
+.Fourthsection {
+    background-color: rgb(34, 136, 143);
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    left: 30%;
+    margin: 10px;
+    height: 350px;
+    width: 200px;
+}
+
+
+
+.Fifthsection {
+    background-color: aliceblue;
+    margin: 0;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    top: 200px;
+}
